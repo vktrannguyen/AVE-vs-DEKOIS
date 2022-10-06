@@ -1,0 +1,91 @@
+read 169 actives and 8696 inactives
+calc aa_D_ref
+calc ii_D_ref
+calc ai_D_ref
+done
+calculate objectives for the population
+remove similar sets
+removing 0 similar sets
+population size after similarity filter:  100
+select the next generation
+iter= 1 fullPopObj= 0.297 topPopObj= 0.245 finalPopObj= 0.201 minObj= 99999
+breed
+calculate objectives for the population
+remove similar sets
+removing 0 similar sets
+population size after similarity filter:  100
+select the next generation
+iter= 2 fullPopObj= 0.245 topPopObj= 0.208 finalPopObj= 0.181 minObj= 0.201
+breed
+calculate objectives for the population
+remove similar sets
+removing 0 similar sets
+population size after similarity filter:  100
+select the next generation
+iter= 3 fullPopObj= 0.212 topPopObj= 0.174 finalPopObj= 0.142 minObj= 0.181
+breed
+calculate objectives for the population
+remove similar sets
+removing 0 similar sets
+population size after similarity filter:  100
+select the next generation
+iter= 4 fullPopObj= 0.187 topPopObj= 0.155 finalPopObj= 0.126 minObj= 0.142
+breed
+calculate objectives for the population
+remove similar sets
+removing 0 similar sets
+population size after similarity filter:  100
+select the next generation
+iter= 5 fullPopObj= 0.16 topPopObj= 0.125 finalPopObj= 0.1 minObj= 0.126
+breed
+calculate objectives for the population
+remove similar sets
+removing 0 similar sets
+population size after similarity filter:  100
+select the next generation
+iter= 6 fullPopObj= 0.13 topPopObj= 0.105 finalPopObj= 0.085 minObj= 0.1
+breed
+calculate objectives for the population
+remove similar sets
+removing 0 similar sets
+population size after similarity filter:  100
+select the next generation
+iter= 7 fullPopObj= 0.109 topPopObj= 0.083 finalPopObj= 0.046 minObj= 0.085
+breed
+calculate objectives for the population
+remove similar sets
+removing 0 similar sets
+population size after similarity filter:  100
+select the next generation
+iter= 8 fullPopObj= 0.087 topPopObj= 0.058 finalPopObj= 0.027 minObj= 0.046
+breed
+calculate objectives for the population
+remove similar sets
+removing 0 similar sets
+population size after similarity filter:  100
+select the next generation
+iter= 9 fullPopObj= 0.063 topPopObj= 0.039 finalPopObj= 0.022 minObj= 0.027
+breed
+calculate objectives for the population
+remove similar sets
+removing 0 similar sets
+population size after similarity filter:  100
+select the next generation
+iter= 10 fullPopObj= 0.046 topPopObj= 0.026 finalPopObj= 0.012 minObj= 0.022
+breed
+calculate objectives for the population
+remove similar sets
+removing 0 similar sets
+population size after similarity filter:  100
+select the next generation
+iter= 11 fullPopObj= -0.031 topPopObj= -0.059 finalPopObj= -0.087 minObj= 0.012
+breed
+calculate objectives for the population
+remove similar sets
+removing 0 similar sets
+population size after similarity filter:  100
+select the next generation
+iter= 12 fullPopObj= 0.049 topPopObj= 0.02 finalPopObj= 0.002 minObj= 0.012
+Done. Total running time: 19838.291 sec
+
+AVE_optim.Iter_12_obj_0.002_size_125-6520-37-2170
