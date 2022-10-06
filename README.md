@@ -12,4 +12,6 @@ You will find herein the files related to our JCIM short communication paper "**
    - **SMI** files: the input and output files of AVE
    - **TXT** file: information regarding the AVE split process
    
+We also provide herein the two AVE scripts originally written by AVE authors (https://doi.org/10.1021/acs.jcim.7b00403), one for carrying out AVE split (Remove_AVE_Python3.py), one for computing the AVE bias of any training-test partition (Analyze_AVE_Python3.py). These scripts have been modified from the original scripts to be able to run in Python 3.
+
 For more information, please contact **Dr. Viet-Khoa Tran-Nguyen** (khoatnv1993@gmail.com) or **Dr. Pedro J. Ballester** (p.ballester@imperial.ac.uk).
