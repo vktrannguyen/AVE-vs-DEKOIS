@@ -1,6 +1,10 @@
 # AVE-vs-DEKOIS
 
-You will find herein the files related to our JCIM viewpoint paper "**Beware of simple methods for structure-based virtual screening: the critical importance of broader comparisons**". Two targets namely **ACHE** (acetylcholinesterase) and **HMGR** (HMG-CoA reductase) are involved. Each target corresponds to a folder. Inside each folder, you will find the following sub-folders and files:
+You will find herein the files related to our JCIM viewpoint paper "**Beware of Simple Methods for Structure-Based Virtual Screening: The Critical Importance of Broader Comparisons**". 
+
+Please cite: Tran-Nguyen, V. K. & Ballester, P. J. Beware of Simple Methods for Structure-Based Virtual Screening: The Critical Importance of Broader Comparisons. *J. Chem. Inf. Model.* **2023** (in press). https://doi.org/10.1021/acs.jcim.3c00218
+
+Two targets namely **ACHE** (acetylcholinesterase) and **HMGR** (HMG-CoA reductase) are involved. Each target corresponds to a folder. Inside each folder, you will find the following sub-folders and files:
 
 - **DEKOIS sub-folder**: training-test partition that employs a DEKOIS2.0 benchmark as test set, experimental data retrieved from PubChem/ChEMBL as training set. AVE split is not involved. Inside this sub-folder are the following files:
    - **Mol2** files with the word **docked** in their names: docked poses of training/test molecules inside their receptor
