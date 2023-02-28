@@ -1,5 +1,7 @@
 # AVE-vs-DEKOIS
 
+![Graphical-Abstract](https://github.com/vktrannguyen/AVE-vs-DEKOIS/blob/main/Graphical-Abstract.png)
+
 You will find herein the files related to our JCIM viewpoint paper "**Beware of Simple Methods for Structure-Based Virtual Screening: The Critical Importance of Broader Comparisons**". 
 
 Please cite: Tran-Nguyen, V. K. & Ballester, P. J. Beware of Simple Methods for Structure-Based Virtual Screening: The Critical Importance of Broader Comparisons. *J. Chem. Inf. Model.* **2023** (in press). https://doi.org/10.1021/acs.jcim.3c00218
