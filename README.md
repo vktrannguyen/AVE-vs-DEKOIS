@@ -4,7 +4,7 @@
 
 You will find herein the files related to our JCIM viewpoint paper "**Beware of Simple Methods for Structure-Based Virtual Screening: The Critical Importance of Broader Comparisons**". 
 
-Please cite: Tran-Nguyen, V. K. & Ballester, P. J. Beware of Simple Methods for Structure-Based Virtual Screening: The Critical Importance of Broader Comparisons. *J. Chem. Inf. Model.* **2023** (in press). https://doi.org/10.1021/acs.jcim.3c00218
+Please cite: Tran-Nguyen, V. K.; Ballester, P. J. Beware of Simple Methods for Structure-Based Virtual Screening: The Critical Importance of Broader Comparisons. *J. Chem. Inf. Model.* **2023**, *63*, 1401-1405. https://doi.org/10.1021/acs.jcim.3c00218
 
 Two targets namely **ACHE** (acetylcholinesterase) and **HMGR** (HMG-CoA reductase) are involved. Each target corresponds to a folder. Inside each folder, you will find the following sub-folders and files:
 
